@@ -1,0 +1,68 @@
+Create by: d4rkm00ns
+
+indonesia:
+=__+ [LANKAH PAKAI TOOLS] +__=
+>tools ini work pada python2.7
+ gk ada python2.7..?
+ buka google.com ketik cara install python2.7 di windows, linux, termux
+>ikuti langkah dibawah ini SECARA URUT..!!
+
+[1] pastikan emaillist anda berformat
+    email|password
+    CONTOH: justin@gmail.com|p4sw00rdJustin
+    jika belum seperti di atas replace dulu pake
+    notepad/terserah anda
+
+[2] sebelum melakukan checking, filter terlebih dahulu
+    emaillist anda pada "Email Filter by Domain"
+    yg ada pada tools ini. Hasil dari filter berada
+    pada file sesuai domain yg difilter
+    MISAL: domain gmail.com berada di file gmail.txt
+
+[3] jika langkah diatas sudah done, selanjutnya
+    mulai check emailist anda sesuai domainnya
+    MISAL: saya ingin check list gmail.txt,
+           tinggal pilih saja "Email Valid Domain @gmail.com"
+           lalu input lokasi filenya
+           CONTOH: [+]Emaillist FIle Name root@d4rkm00ns: <LOKASI FILE>
+                   [+]Emaillist FIle Name root@d4rkm00ns: ResFiltered/gmail.txt
+
+
+--+ [Happy Checking] +--
+jika kamu mengalami masalah dapat menghubungi developrenya:
+ </> d4rkm00ns@protonmail.com
+
+english:
+=__+ [HOW USE TOOLS] +__=
+>this tools work on python2.7
+ not have python2.7 ..?
+ open google.com type how to install python2.7
+>follow the steps bellow the sequence
+[1] make sure emaillist you format
+    email|password
+    EX: justin@gmail.com|p4sw00rdJustin
+    if not like over change in advance
+    you can use notepad to replace
+
+[2] before checking filter first emaillist you on
+    the "Email Filter by Domain" that exist in these tools
+    result stored according domain
+    EX: result domain @gmail in gmail.txt
+
+[3] if the above steps are correct, then start check
+    emaillist according to the domain
+    EX: i want to check list gmail.txt
+        you can choose "Email Valid Domain @gmail"
+        then input location file
+        EX: [+]Emaillist FIle Name root@d4rkm00ns: ResFiltered/gmail.txt
+
+
+--+ [Happy Checking] +--
+if you have any question you can contact me on:
+ </> d4rkm00ns@protonmail.com
+
+
+==---+ [TERM OF SERVICE] +--====---+ [TERM OF SERVICE] +--==
+if you use this tools, then all responsibility fully
+to you, we are not responsible for the loss of your natural,
+we just make tool where to help your job :).
